@@ -2,7 +2,7 @@
 
 # Ploop
 
-<img src='assets/logo/ploop-applogo.png' width=150px/>
+<img src='assets/ploop-applogo.png' width=150px/>
 </br>
 
 ### Pick, Plog, and Keep the Loop Going!
@@ -18,15 +18,21 @@ Google Developer Group on Campus : SEOULTECH
 
 ## Getting Started
 
+
 ## Components
 
 ### Frontend
 
+<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"><img src="https://img.shields.io/badge/3.29.2-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/3.7.2-515151?style=for-the-badge">
+
 ### Backend
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/*.*.*-515151?style=for-the-badge">
 
 ### AI
 
 ### Design
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 ## ⚠️ API Keys are not included in this repository
 
@@ -38,8 +44,8 @@ This app uses Google Map API. To run this app from code, follow these instructio
 
 ### iOS
 
-Ask member to get `GoogleService-Info.plist` file, add it into `ios/Runner` folder.
+Ask member to get `GoogleService-Info.plist` file, add it into `Ploop-FE/ios/Runner` folder.
 
 ### Android
 
-Ask member to get `google-services.json` file, add it into `android/app` folder.
+Ask member to get `google-services.json` file, add it into `Ploop-FE/android/app` folder.
