@@ -43,9 +43,10 @@ Google Developer Group on Campus : SEOULTECH
 
 
 ### Devices used for testing
-- iPhone 16 Pro
-- Samsung Galaxy S23
-- Samsung Galaxy S21
+- Physical Devices
+  - iPhone 16 Pro
+  - Samsung Galaxy S23
+  - Samsung Galaxy S21
 
 - Virtual Devices
   - iPhone 16, iPhone 16 Pro Max, iPhone SE (Xcode Simulator)
