@@ -41,6 +41,16 @@ Google Developer Group on Campus : SEOULTECH
 ### Design
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
+
+### Devices used for testing
+- iPhone 16 Pro
+- Samsung Galaxy S23
+- Samsung Galaxy S21
+
+- Virtual Devices
+  - iPhone 16, iPhone 16 Pro Max, iPhone SE (Xcode Simulator)
+  - Medium Phone API 36 (Android Emulator)
+
 ## ⚠️ API Keys are not included in this repository
 
 To run this app from code, follow these instructions:
