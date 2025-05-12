@@ -34,7 +34,7 @@ Google Developer Group on Campus : SEOULTECH
 ### AI
 <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge"><br>
 <img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/2.2.2-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/v2.0-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/v2.0 FLASH-515151?style=for-the-badge"><br>
 
 
 
