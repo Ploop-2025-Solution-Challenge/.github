@@ -49,7 +49,7 @@ Google Developer Group on Campus : SEOULTECH
   - Samsung Galaxy S21
 
 - Virtual Devices
-  - iPhone 16, iPhone 16 Pro Max, iPhone SE (Xcode Simulator)
+  - iPhone 16, iPhone 16 Plus, iPhone 16 Pro Max, iPhone SE (3rd Generation) (Xcode Simulator)
   - Medium Phone API 36 (Android Emulator)
 
 ## ⚠️ API Keys are not included in this repository
