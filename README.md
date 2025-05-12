@@ -46,7 +46,7 @@ Google Developer Group on Campus : SEOULTECH
 To run this app from code, follow these instructions:
 
 - Please check submitted prototype folder.
-- Add `.env` file at the root directory of the project.
+- Add `.env` file at the root directory of the `Ploop-FE/` folder.
 - Follow the next instructions for each platform.
 
 ### iOS
