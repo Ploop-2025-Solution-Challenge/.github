@@ -70,12 +70,40 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 </br>
 
 ## Application
-### Features
+### Home
+<img src="https://github.com/user-attachments/assets/d1fd871f-ae93-4132-8b4c-c1fbd2dece49" height="500"/>
+</br>
+
+### Weekly Missions
+<img src="https://github.com/user-attachments/assets/d1028016-b4c7-4881-ae0d-3830af68b991" height="800"/>
+<img src="https://github.com/user-attachments/assets/46c8330f-237b-4634-8f08-fcf4cc949377" height="400"/>
+
 
 </br>
 
+### Plogging
+<img src="https://github.com/user-attachments/assets/f686d6bb-3706-414b-929d-09eb1d3714dc" height="500"/>
+</br>
+
+### Map Integration
+<img src="https://github.com/user-attachments/assets/c8055b2f-9f0c-405f-9a64-ec2b50868b2a" height="500"/>
+</br>
+
+### Activity
+<img src="https://github.com/user-attachments/assets/c0ea4fc1-e5ac-4f82-a66e-e5c15a0db699" height="500"/>
+</br>
+
+### Logic
+
+
+
+
+</br>
 
 ## Project Architecture
+<img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/>
+
+
 
 </br>
 
