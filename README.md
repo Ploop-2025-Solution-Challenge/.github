@@ -16,10 +16,70 @@ Google Developer Group on Campus : SEOULTECH
 
 <hr />
 
-## Getting Started
+## Content
+1. Overview
+2. Application
+3. Project Architecture
+4. Tech Stack
+5. Get Started
+6. Team
+   
+</br>
+
+## Overview
+### What is Plogging?
+Plogging is a combination of "jogging" and the Swedish word "plocka upp", which means "to pick up."
+
+> ♻️ Plogging = jogging + plocka upp
+
+In simple terms, plogging is an eco-friendly fitness activity where people pick up litter while jogging.
+
+</br>
+
+### Then, What is `Ploop` App?
+Ploop is a mobile app designed to make plogging—the act of picking up litter while jogging—more accessible, purposeful, and fun.
+
+In cities like Seoul, littering remains a social crisis, not only because of the growing volume of waste, but because it often goes unmonitored. Despite rising awareness around sustainability, daily habits are hard to change, and public systems can’t always keep up.
+
+**Ploop aims to bridge that gap through simple, individual action.**
+
+By turning everyday walks into missions, encouraging photo-based litter reports, and tracking activity with real-time maps and data, Ploop empowers users to make a measurable impact in their local communities.
+
+Whether you’re walking alone or contributing to global routes, Ploop helps you visualize your actions, stay motivated, and be part of a wider movement—one walk at a time.
+
+**Pick, Plog, and Keep the Loop Going.**
+
+</br>
+
+### Goal
+Ploop’s goal is to transform the way individuals engage with environmental action—making it **part of their everyday routines**, not just occasional events.
+
+Specifically, we aim to:
+- 🌍 Encourage sustainable habits by turning walking or jogging into opportunities for litter cleanup
+
+- 🤝 Encourage shared engagement through weekly partner missions and globally visible routes
+
+- 📊 Generate meaningful data on litter patterns that can inform local policies and urban planning
+
+- 📱 Make environmental contribution fun, accessible, and measurable through technology
+
+- 🔁 Create a self-sustaining cycle of small actions that lead to long-term impact
+
+With Ploop, we’re not just cleaning up trash—we’re building a culture of continuous environmental awareness and action
+
+</br>
+
+## Application
+### Features
+
+</br>
 
 
-## Components
+## Project Architecture
+
+</br>
+
+## Tech Stack
 
 ### Frontend
 
@@ -42,6 +102,8 @@ Google Developer Group on Campus : SEOULTECH
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 
+
+## Get Started
 ### Devices used for testing
 - Physical Devices
   - iPhone 16 Pro
@@ -67,3 +129,6 @@ Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
 ### Android
 
 Add `google-services.json` file into `Ploop-FE/android/app` folder.
+
+## Team
+Monday
