@@ -17,12 +17,15 @@ Google Developer Group on Campus : SEOULTECH
 <hr />
 
 ## Content
-1. Overview
-2. Application
-3. Project Architecture
-4. Tech Stack
-5. Get Started
-6. Team
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#overview">Overview</a><br/>
+&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#what-is-plogging">What is Plogging?</a><br/>
+&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#then-what-is-ploop-app">Introducing Ploop</a><br/>
+&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#goal">Goals of Ploop</a><br/>
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#tech-stack">Tech Stack</a><br/>
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#project-architecture">Project Architecture</a><br/>
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#application-features">Features</a><br/>
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#team">Team</a><br/>
+
    
 </br>
 
@@ -34,7 +37,7 @@ Google Developer Group on Campus : SEOULTECH
 ### What is Plogging?
 Plogging is a combination of "jogging" and the Swedish word "plocka upp", which means "to pick up."
 
-> ♻️ Plogging = jogging + plocka upp
+> Plogging = jogging + plocka upp
 
 In simple terms, plogging is an eco-friendly fitness activity where people pick up litter while jogging.
 
@@ -58,7 +61,7 @@ Whether you’re walking alone or contributing to global routes, Ploop helps you
 
 ▶ Ploop Demo Video  
 <br />
-<a href="https://github.com/4ch1o3](https://youtu.be/rB9DLo2qyMw?feature=shared">
+<a href="https://youtu.be/rB9DLo2qyMw?feature=shared">
 ![thumbnail4](https://github.com/user-attachments/assets/a3802801-10bf-4716-8c4d-ea5c9a3510a9)
 </a>
 
@@ -116,12 +119,13 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
   - iPhone 16, iPhone 16 Plus, iPhone 16 Pro Max, iPhone SE (3rd Generation) (Xcode Simulator)
   - Medium Phone API 36 (Android Emulator)
 
+<br/>
 
 ## Project Architecture
 <img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/>
 
 
-## Application
+## Application Features
 ### Home
 <img src="https://github.com/user-attachments/assets/d1fd871f-ae93-4132-8b4c-c1fbd2dece49" height="500"/>
 </br>
