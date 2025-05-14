@@ -35,7 +35,7 @@ Google Developer Group on Campus : SEOULTECH
   - [Activity Dashboard](#activity-dashboard)
 - [Releases](#releases)
 - [About Sensitive Information](#%EF%B8%8F-api-keys-are-not-included-in-this-repository)  
-- [Contributors](#contributors)  
+- [Team](#team)  
 
    
 </br>
@@ -252,7 +252,7 @@ Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
 <br/>
 <br/>
 
-## Contributors
+## Team
 
    <table>
   <tr>
