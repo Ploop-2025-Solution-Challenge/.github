@@ -226,22 +226,22 @@ Ploop helps you look back on how much you've contributed to a cleaner planet wit
 <br/>
 <br/>
 
-## ⚠️ API Keys are not included in this repository
 
-To run this app from code, follow these instructions:
+## ⚠️ API keys are not included in this repository
+To run this app from the source code, please follow the instructions below:
 
-- Please check submitted prototype folder.
-  - The folder is only given to the judges.
-- Add `.env` file at the root directory of the `Ploop-FE/` folder.
-- Follow the next instructions for each platform.
+- Check the submitted prototype folder.
+  - Note: The folder is provided only to the judges.
+- Add `.env` file to the root directory of the `Ploop-FE/` folder.
+
+Alternatively, you can use your own client IDs and API keys.
+Follow the platform-specific instructions below:
 
 ### iOS
-
-Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
+Add the `GoogleService-Info.plist` file to the `Ploop-FE/ios/Runner` folder.
 
 ### Android
-
-Add `google-services.json` file into `Ploop-FE/android/app` folder.
+Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
 
 <br/>
 <br/>
