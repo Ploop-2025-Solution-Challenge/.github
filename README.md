@@ -144,10 +144,10 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 We used YOLOv11 to detect trash real-time. YOLOv11 is the latest version in the Ultralytics YOLO series, achieving breakthroughs in accuracy, speed, and efficiency in the field of real-time object detection.
 ![image](https://github.com/user-attachments/assets/3956e647-8a10-42df-8314-31228bcce173)
 <br/>
-Since we expected users to take photos of trash outdoors while plogging, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on this dataset, and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
+Since we expected users to take photos of trash outdoors while plogging, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on [trash detection dataset (TACO)](https://universe.roboflow.com/ptit-rbnp6/trash-detect-taco/dataset/2), and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
 
 ### Team Matching
-Another way of using ai was in Team Matching in Missions. We wanted to match people with similar experiences, motivations and prefered areas and vice versa so that the team missions given each week will be more engaging. Text data from users was processed using PyTorch-powered sentence embeddings via SentenceTransformers, enabling us to compute semantic similarity across user motivations and behaviors. This allows us to match users with others who share similar goals or engagement styles. Pinecone was used as our vector database for efficient real-time similarity search. <br/>
+Another way of using ai was in Team Matching in Missions. Text data from users was processed using PyTorch-powered sentence embeddings via SentenceTransformers, enabling us to compute semantic similarity across user motivations and behaviors. This allowed us to match users with others who share similar goals or engagement styles. Pinecone was used as our vector database for efficient real-time similarity search. <br/>
 ![image](https://github.com/user-attachments/assets/36e33440-defe-4665-9f28-f0e9c00e4f3e)
 
 
