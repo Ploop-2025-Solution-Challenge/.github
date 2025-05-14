@@ -66,6 +66,7 @@ By turning everyday walks into missions, encouraging photo-based litter reports,
 Whether you’re walking alone or contributing to global routes, Ploop helps you visualize your actions, stay motivated, and be part of a wider movement—one walk at a time.
 
 **Pick, Plog, and Keep the Loop Going.**
+
 <br /><br />
 
 ▶ Ploop Demo Video  
@@ -134,17 +135,21 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 <img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/></br>
 
 </br>
+
 ## Application Features
 ### Sign Up & Sign In
+
 <img src="https://github.com/user-attachments/assets/fc0f7d18-2e93-4c5e-bcd2-22c1b7f98a15" height="300"></br>
 Ploop uses Google OAuth for to sign up. Connect your Google profile to the service.  
 </br>
+
 ### User Info Settings & Preferences
 <img src="https://github.com/user-attachments/assets/8db5e798-580f-4678-969f-da6512fc82b2" height="300"></br>
 Set up your region, nickname, and so on.  
 Your preferred area and engagement style reported on this step will be used for matching partner for weekly missions.  
 
 </br>
+
 ### Weekly Missions
 <img src="https://github.com/user-attachments/assets/d1c3e297-48c2-4da3-9eea-8539bd06220d" height="300"/></br>
 Ploop gives you 3 new missions every week. They're not mandatory, but they'll keep you engaged in small environmental actions.  
@@ -155,6 +160,7 @@ if there's no mission this week, we'll show you this screen.
 <img src="https://github.com/user-attachments/assets/cbbae95f-d5c6-4b10-a450-799c31b40755" height="300"/> 
 </br>
 </br>
+
 ### Plogging
 <img src="https://github.com/user-attachments/assets/f748cd13-eac7-4397-a746-9bbbd209a61b" height="300"/>
 </br>
@@ -162,6 +168,7 @@ Ploop is designed to track your realtime activity, simple and efficiently.
 To track it more efficiently, please allow Ploop to access your location services.  
 
 </br>
+
 ### Map Components
 <img src="https://github.com/user-attachments/assets/91485af7-6f91-4708-a802-8990450a6a28" height="300"/>
 </br>
@@ -178,6 +185,7 @@ The location will be automatically uploaded to the server.
 All you need to do is specify whether you found litter or a bin.
 
 </br>
+
 ### Global Routes
 <img src="https://github.com/user-attachments/assets/44fc31d0-510b-4814-9c80-b573f456d465" height="300"/>
 </br>
@@ -185,6 +193,7 @@ No manual uploads needed — explore the world and trace other users' footprints
 Others might even follow your plogging route, too.
 
 </br>
+
 ### Activity Dashboard
 <img src="https://github.com/user-attachments/assets/6a3ca752-2420-4afe-8c91-0addbb60236c" height="300"/>
 </br>
