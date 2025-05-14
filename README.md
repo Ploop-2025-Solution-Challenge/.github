@@ -22,7 +22,8 @@ Google Developer Group on Campus : SEOULTECH
   - [Introducing Ploop](#then-what-is-ploop-app)  
   - [Goals of Ploop](#goal)  
 - [Components](#components)  
-- [Project Architecture](#project-architecture)  
+- [Project Architecture](#project-architecture)
+- [AI](#ai)
 - [Features](#application-features)  
   - [Signing In](#sign-up--sign-in)
   - [Settings & Preferences](#user-info-settings--preferences) 
@@ -134,6 +135,11 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 
 ## Project Architecture
 <img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/></br>
+
+<br/>
+<br/>
+
+## AI
 
 <br/>
 
