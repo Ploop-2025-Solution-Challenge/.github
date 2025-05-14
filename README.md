@@ -259,7 +259,7 @@ Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
     <td align="center">
       <a href="https://www.behance.net/SoyeonAhn_yyyy">
       <img src="https://github.com/user-attachments/assets/fdd97809-ec24-40ca-aad4-8c24ed298230" width="100px;" alt=""/></a><br />
-      <b>Soyean Ahn</b><br/>
+      <b>Soyeon Ahn</b><br/>
       Design
     </td>
     <td align="center">
