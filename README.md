@@ -32,6 +32,7 @@ Google Developer Group on Campus : SEOULTECH
   - [Uploading locations](#uploading-litter-area--trach-bin)
   - [Global Routes](#global-routes)
   - [Activity Dashboard](#activity-dashboard)
+- [Releases](#releases)
 - [About Sensitive Information](#%EF%B8%8F-api-keys-are-not-included-in-this-repository)  
 - [Contributors](#contributors)  
 
