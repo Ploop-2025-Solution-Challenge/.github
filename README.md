@@ -27,6 +27,10 @@ Google Developer Group on Campus : SEOULTECH
 </br>
 
 ## Overview
+
+
+
+
 ### What is Plogging?
 Plogging is a combination of "jogging" and the Swedish word "plocka upp", which means "to pick up."
 
@@ -50,6 +54,13 @@ By turning everyday walks into missions, encouraging photo-based litter reports,
 Whether you’re walking alone or contributing to global routes, Ploop helps you visualize your actions, stay motivated, and be part of a wider movement—one walk at a time.
 
 **Pick, Plog, and Keep the Loop Going.**
+<br /><br />
+
+▶ Ploop Demo Video  
+<br />
+<a href="https://github.com/4ch1o3](https://youtu.be/rB9DLo2qyMw?feature=shared">
+![thumbnail4](https://github.com/user-attachments/assets/a3802801-10bf-4716-8c4d-ea5c9a3510a9)
+</a>
 
 </br>
 
@@ -93,6 +104,7 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 ### Design
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
+<br />
 
 ### Devices used for testing
 - Physical Devices
