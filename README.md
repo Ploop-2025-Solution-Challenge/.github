@@ -131,32 +131,35 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 
 
 ## Application Features
-### Home
-<img src="https://github.com/user-attachments/assets/d1fd871f-ae93-4132-8b4c-c1fbd2dece49" height="500"/>
-</br>
+### Sign Up & Sign In
+<img src="https://github.com/user-attachments/assets/871ca3eb-b162-428a-a667-2cf6d1dabcdd" height="300">
+
+### Sign Up & Sign In
+<img src="https://github.com/user-attachments/assets/07d97c69-5143-420d-9f1a-bd87d7a9dc2b" height="300">
 
 ### Weekly Missions
-<img src="https://github.com/user-attachments/assets/d1028016-b4c7-4881-ae0d-3830af68b991" height="800"/>
-<img src="https://github.com/user-attachments/assets/46c8330f-237b-4634-8f08-fcf4cc949377" height="400"/>
+<img src="https://github.com/user-attachments/assets/339828c8-e956-4a06-b2f2-d48f29901ed0" height="300"/>
 
 
 </br>
 
 ### Plogging
-<img src="https://github.com/user-attachments/assets/f686d6bb-3706-414b-929d-09eb1d3714dc" height="500"/>
+<img src="https://github.com/user-attachments/assets/95f49d0f-9ee4-4330-b80c-1016004b863c" height="300"/>
 </br>
 
 ### Map Integration
-<img src="https://github.com/user-attachments/assets/c8055b2f-9f0c-405f-9a64-ec2b50868b2a" height="500"/>
+<img src="https://github.com/user-attachments/assets/e3cf5c68-ec8f-4f4d-aaa4-f793517fc021" height="300"/>
 </br>
 
-### Activity
-<img src="https://github.com/user-attachments/assets/c0ea4fc1-e5ac-4f82-a66e-e5c15a0db699" height="500"/>
+### Global Routes
+<img src="https://github.com/user-attachments/assets/38af93da-ba49-4e9a-a794-38432c0d4efa" height="300"/>
+</br>
+
+### Activity Dashboard
+<img src="https://github.com/user-attachments/assets/93d4e0d1-a5b7-485c-ad8d-e5e6a478b013" height="300"/>
 </br>
 
 ### Logic
-
-
 
 
 </br>
