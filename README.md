@@ -217,12 +217,20 @@ Ploop helps you look back on how much you've contributed to a cleaner planet wit
 <br/>
 <br/>
 
+## Releases
+|Version|Release Page|
+|:--:|:--:|
+|v0.1.0 **(Latest)** |[Ploop (0.1.0)](https://github.com/Ploop-2025-Solution-Challenge/Ploop-FE/releases/tag/v0.1.0)|
+
+<br/>
+<br/>
 
 ## ⚠️ API Keys are not included in this repository
 
 To run this app from code, follow these instructions:
 
 - Please check submitted prototype folder.
+  - The folder is only given to the judges.
 - Add `.env` file at the root directory of the `Ploop-FE/` folder.
 - Follow the next instructions for each platform.
 
@@ -235,9 +243,10 @@ Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
 Add `google-services.json` file into `Ploop-FE/android/app` folder.
 
 <br/>
+<br/>
 
 ## Contributors
-<center>
+
    <table>
   <tr>
     <td align="center">
@@ -266,5 +275,5 @@ Add `google-services.json` file into `Ploop-FE/android/app` folder.
     </td>
   <tr>
 <table>
-</center>
+
 
