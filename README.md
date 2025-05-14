@@ -139,19 +139,19 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 ## Application Features
 ### Sign Up & Sign In
 
-<img src="https://github.com/user-attachments/assets/fc0f7d18-2e93-4c5e-bcd2-22c1b7f98a15" height="300"></br>
+<img src="https://github.com/user-attachments/assets/fc0f7d18-2e93-4c5e-bcd2-22c1b7f98a15" height="250"></br>
 Ploop uses Google OAuth for to sign up. Connect your Google profile to the service.  
 <br/>
 
 ### User Info Settings & Preferences
-<img src="https://github.com/user-attachments/assets/8db5e798-580f-4678-969f-da6512fc82b2" height="300"></br>
+<img src="https://github.com/user-attachments/assets/8db5e798-580f-4678-969f-da6512fc82b2" height="250"></br>
 Set up your region, nickname, and so on.  
 Your preferred area and engagement style reported on this step will be used for matching partner for weekly missions.  
 
 <br/>
 
 ### Weekly Missions
-<img src="https://github.com/user-attachments/assets/d1c3e297-48c2-4da3-9eea-8539bd06220d" height="300"/></br>
+<img src="https://github.com/user-attachments/assets/d1c3e297-48c2-4da3-9eea-8539bd06220d" height="250"/></br>
 Ploop gives you 3 new missions every week. They're not mandatory, but they'll keep you engaged in small environmental actions.  
 Set a goal to complete 100% of the missions each week with your partner!  
 
@@ -159,11 +159,11 @@ Set a goal to complete 100% of the missions each week with your partner!
 if there's no mission this week, we'll show you this screen.  
 <br/>
 
-<img src="https://github.com/user-attachments/assets/cbbae95f-d5c6-4b10-a450-799c31b40755" height="300"/> 
+<img src="https://github.com/user-attachments/assets/cbbae95f-d5c6-4b10-a450-799c31b40755" height="250"/> 
 <br/><br/>
 
 ### Plogging
-<img src="https://github.com/user-attachments/assets/f748cd13-eac7-4397-a746-9bbbd209a61b" height="300"/>
+<img src="https://github.com/user-attachments/assets/f748cd13-eac7-4397-a746-9bbbd209a61b" height="250"/>
 <br/>
 Ploop is designed to track your realtime activity, simple and efficiently.  
 To track it more efficiently, please allow Ploop to access your location services.  
@@ -172,7 +172,7 @@ To track it more efficiently, please allow Ploop to access your location service
 <br/>
 
 ### Map Components
-<img src="https://github.com/user-attachments/assets/91485af7-6f91-4708-a802-8990450a6a28" height="300"/>
+<img src="https://github.com/user-attachments/assets/91485af7-6f91-4708-a802-8990450a6a28" height="250"/>
 <br/>
 Ploop uses Google Maps API to display areas reported as heavily littered or locations of nearby trash bins.  
 Based on this data, Ploop recommends a daily plogging route tailored to your surroundings.  
@@ -182,7 +182,7 @@ Start plogging with a motivational message powered by Gemini!
 <br/>
 
 ### Uploading litter area & trach bin
-<img src="https://github.com/user-attachments/assets/d6d18cc0-4e25-4784-abcb-d6e0a7538f43" height="600"/>
+<img src="https://github.com/user-attachments/assets/d6d18cc0-4e25-4784-abcb-d6e0a7538f43" height="500"/>
 <br/>
 To report a littered area or a trash bin, simply open the camera on the map and take a photo.  
 The location will be automatically uploaded to the server.  
@@ -192,7 +192,7 @@ All you need to do is specify whether you found litter or a bin.
 <br/>
 
 ### Global Routes
-<img src="https://github.com/user-attachments/assets/44fc31d0-510b-4814-9c80-b573f456d465" height="300"/>
+<img src="https://github.com/user-attachments/assets/44fc31d0-510b-4814-9c80-b573f456d465" height="250"/>
 </br>
 No manual uploads needed — explore the world and trace other users' footprints.
 Others might even follow your plogging route, too.
@@ -201,7 +201,7 @@ Others might even follow your plogging route, too.
 <br/>
 
 ### Activity Dashboard
-<img src="https://github.com/user-attachments/assets/6a3ca752-2420-4afe-8c91-0addbb60236c" height="300"/>
+<img src="https://github.com/user-attachments/assets/6a3ca752-2420-4afe-8c91-0addbb60236c" height="250"/>
 <br/>
 Track your environmental journey on your activity dashboard.
 Ploop helps you look back on how much you've contributed to a cleaner planet with intuitive graphs.
