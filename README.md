@@ -37,7 +37,9 @@ In simple terms, plogging is an eco-friendly fitness activity where people pick 
 </br>
 
 ### Then, What is `Ploop` App?
-Ploop is a mobile app designed to make plogging—the act of picking up litter while jogging—more accessible, purposeful, and fun.
+
+
+Ploop is a mobile app designed to make plogging — the act of picking up litter while jogging — more accessible, purposeful, and fun.
 
 In cities like Seoul, littering remains a social crisis, not only because of the growing volume of waste, but because it often goes unmonitored. Despite rising awareness around sustainability, daily habits are hard to change, and public systems can’t always keep up.
 
@@ -68,6 +70,44 @@ Specifically, we aim to:
 With Ploop, we’re not just cleaning up trash—we’re building a culture of continuous environmental awareness and action
 
 </br>
+
+
+## Tech Stack
+
+### Frontend
+
+<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"><img src="https://img.shields.io/badge/3.29.2-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/3.7.2-515151?style=for-the-badge">
+
+### Backend
+<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/3.4.4-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17.0.14-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/9.2.0-515151?style=for-the-badge">
+
+### AI
+<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/2.2.2-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/v2.0 FLASH-515151?style=for-the-badge"><br>
+
+
+### Design
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+
+
+### Devices used for testing
+- Physical Devices
+  - iPhone 16 Pro
+  - Samsung Galaxy S23
+  - Samsung Galaxy S21
+
+- Virtual Devices
+  - iPhone 16, iPhone 16 Plus, iPhone 16 Pro Max, iPhone SE (3rd Generation) (Xcode Simulator)
+  - Medium Phone API 36 (Android Emulator)
+
+
+## Project Architecture
+<img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/>
+
 
 ## Application
 ### Home
@@ -100,47 +140,7 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 
 </br>
 
-## Project Architecture
-<img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/>
 
-
-
-</br>
-
-## Tech Stack
-
-### Frontend
-
-<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"><img src="https://img.shields.io/badge/3.29.2-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/3.7.2-515151?style=for-the-badge">
-
-### Backend
-<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/3.4.4-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17.0.14-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/9.2.0-515151?style=for-the-badge">
-
-### AI
-<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/2.2.2-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/v2.0 FLASH-515151?style=for-the-badge"><br>
-
-
-
-### Design
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-
-
-## Get Started
-### Devices used for testing
-- Physical Devices
-  - iPhone 16 Pro
-  - Samsung Galaxy S23
-  - Samsung Galaxy S21
-
-- Virtual Devices
-  - iPhone 16, iPhone 16 Plus, iPhone 16 Pro Max, iPhone SE (3rd Generation) (Xcode Simulator)
-  - Medium Phone API 36 (Android Emulator)
 
 ## ⚠️ API Keys are not included in this repository
 
@@ -158,5 +158,30 @@ Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
 
 Add `google-services.json` file into `Ploop-FE/android/app` folder.
 
-## Team
-Monday
+## Contributors
+<center>
+   <table>
+  <tr>
+    <td align="center">
+       <a href="https://github.com/4ch1o3">
+       <img src="https://avatars.githubusercontent.com/u/109056574?v=4" width="100px" alt=""/></a><br />
+       <b>Jiwon Lee</b><br />
+       Flutter
+    </td>
+    <td align="center">
+       <a href="https://github.com/xxrainow">
+          <img src="https://avatars.githubusercontent.com/u/90715224?s=70&v=4" width="100px;" alt=""/></a><br />
+       <b>Jiwoo Shin</b><br/>
+       Database & Server
+    </td>
+    <td align="center">
+       <a href="https://github.com/hohosznta">
+          <img src="https://avatars.githubusercontent.com/u/125850243?v=4" width="100px;" alt=""/></a><br />
+       <b>Yoolim Han</b><br/>
+       AI & Server
+    </td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a72962c7-41c7-445d-ae80-bc5d04b89028" width="100px;" alt=""/><br /><b>Soyean Ahn</b><br/>Design</td>
+  <tr>
+<table>
+</center>
+
