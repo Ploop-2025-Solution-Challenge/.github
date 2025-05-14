@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Ploop
 
 <img src='assets/ploop-applogo.png' width=150px/>
@@ -24,10 +24,14 @@ Google Developer Group on Campus : SEOULTECH
 - [Components](#components)  
 - [Project Architecture](#project-architecture)  
 - [Features](#application-features)  
-  - [Home](#home)  
+  - [Signing In](#sign-up--sign-in)
+  - [Settings & Preferences](#user-info-settings--preferences) 
   - [Weekly Missions](#weekly-missions)  
-  - [Start Plogging](#)  
-  - [Global Route](#)  
+  - [Start Plogging](#plogging)  
+  - [Map Components](#map-components)
+  - [Uploading locations](#uploading-bin--littered-area)
+  - [Global Routes](#global-routes)
+  - [Activity Dashboard](#activity-dashboard)
 - [About Sensitive Information](#%EF%B8%8F-api-keys-are-not-included-in-this-repository)  
 - [Contributors](#team)  
 
@@ -127,36 +131,43 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 <br/>
 
 ## Project Architecture
-<img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/>
+<img src="https://github.com/user-attachments/assets/5d383022-df0b-4b24-b157-4c3836eb3cfc"/></br>
 
 
 ## Application Features
 ### Sign Up & Sign In
-<img src="https://github.com/user-attachments/assets/871ca3eb-b162-428a-a667-2cf6d1dabcdd" height="300">
+<img src="https://github.com/user-attachments/assets/fc0f7d18-2e93-4c5e-bcd2-22c1b7f98a15" height="300"></br>
 
-### Sign Up & Sign In
-<img src="https://github.com/user-attachments/assets/07d97c69-5143-420d-9f1a-bd87d7a9dc2b" height="300">
+### User Info Settings & Preferences
+<img src="https://github.com/user-attachments/assets/8db5e798-580f-4678-969f-da6512fc82b2" height="300"></br>
 
 ### Weekly Missions
-<img src="https://github.com/user-attachments/assets/339828c8-e956-4a06-b2f2-d48f29901ed0" height="300"/>
+<img src="https://github.com/user-attachments/assets/d1c3e297-48c2-4da3-9eea-8539bd06220d" height="300"/></br>
 
 
+
+if there's no mission this week, we'll show you this screen.  
+<img src="https://github.com/user-attachments/assets/cbbae95f-d5c6-4b10-a450-799c31b40755" height="300"/> 
 </br>
 
 ### Plogging
-<img src="https://github.com/user-attachments/assets/95f49d0f-9ee4-4330-b80c-1016004b863c" height="300"/>
+<img src="https://github.com/user-attachments/assets/f748cd13-eac7-4397-a746-9bbbd209a61b" height="300"/>
 </br>
 
-### Map Integration
-<img src="https://github.com/user-attachments/assets/e3cf5c68-ec8f-4f4d-aaa4-f793517fc021" height="300"/>
+### Map Components
+<img src="https://github.com/user-attachments/assets/91485af7-6f91-4708-a802-8990450a6a28" height="300"/>
+</br>
+
+### Uploading bin & littered area
+<img src="https://github.com/user-attachments/assets/9958f5e2-6c7c-41b2-8da2-2e9cb7ed80fa" height="600"/>
 </br>
 
 ### Global Routes
-<img src="https://github.com/user-attachments/assets/38af93da-ba49-4e9a-a794-38432c0d4efa" height="300"/>
+<img src="https://github.com/user-attachments/assets/44fc31d0-510b-4814-9c80-b573f456d465" height="300"/>
 </br>
 
 ### Activity Dashboard
-<img src="https://github.com/user-attachments/assets/93d4e0d1-a5b7-485c-ad8d-e5e6a478b013" height="300"/>
+<img src="https://github.com/user-attachments/assets/6a3ca752-2420-4afe-8c91-0addbb60236c" height="300"/>
 </br>
 
 ### Logic
