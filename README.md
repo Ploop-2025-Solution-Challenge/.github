@@ -17,15 +17,19 @@ Google Developer Group on Campus : SEOULTECH
 <hr />
 
 ## Content
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#overview">Overview</a><br/>
-&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#what-is-plogging">What is Plogging?</a><br/>
-&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#then-what-is-ploop-app">Introducing Ploop</a><br/>
-&emsp;<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#goal">Goals of Ploop</a><br/>
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#tech-stack">Tech Stack</a><br/>
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#project-architecture">Project Architecture</a><br/>
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#application-features">Features</a><br/>
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#%EF%B8%8F-api-keys-are-not-included-in-this-repository">About Sensitive Information</a><br/>
-<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#team">Team</a><br/>
+- [Overview](#overview)
+  - [What is Plogging?](#what-is-plogging)  
+  - [Introducing Ploop](#then-what-is-ploop-app)  
+  - [Goals of Ploop](#goal)  
+- [Components](#components)  
+- [Project Architecture](#project-architecture)  
+- [Features](#application-features)  
+  - [Home](#home)  
+  - [Weekly Missions](#weekly-missions)  
+  - [Start Plogging](#)  
+  - [Global Route](#)  
+- [About Sensitive Information](#%EF%B8%8F-api-keys-are-not-included-in-this-repository)  
+- [Contributors](#team)  
 
    
 </br>
@@ -87,7 +91,7 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 </br>
 
 
-## Tech Stack
+## Components
 
 ### Frontend
 
