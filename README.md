@@ -257,6 +257,12 @@ Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
    <table>
   <tr>
     <td align="center">
+      <a href="https://www.behance.net/SoyeonAhn_yyyy">
+      <img src="https://github.com/user-attachments/assets/fdd97809-ec24-40ca-aad4-8c24ed298230" width="100px;" alt=""/></a><br />
+      <b>Soyean Ahn</b><br/>
+      Design
+    </td>
+    <td align="center">
        <a href="https://github.com/4ch1o3">
        <img src="https://avatars.githubusercontent.com/u/109056574?v=4" width="100px" alt=""/></a><br />
        <b>Jiwon Lee</b><br />
@@ -273,12 +279,6 @@ Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
           <img src="https://avatars.githubusercontent.com/u/125850243?v=4" width="100px;" alt=""/></a><br />
        <b>Yoolim Han</b><br/>
        AI & Server
-    </td>
-    <td align="center">
-      <a href="https://www.behance.net/SoyeonAhn_yyyy">
-      <img src="https://github.com/user-attachments/assets/fdd97809-ec24-40ca-aad4-8c24ed298230" width="100px;" alt=""/></a><br />
-      <b>Soyean Ahn</b><br/>
-      Design
     </td>
   <tr>
 <table>
