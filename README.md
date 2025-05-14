@@ -24,6 +24,7 @@ Google Developer Group on Campus : SEOULTECH
 <a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#tech-stack">Tech Stack</a><br/>
 <a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#project-architecture">Project Architecture</a><br/>
 <a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#application-features">Features</a><br/>
+<a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#%EF%B8%8F-api-keys-are-not-included-in-this-repository">About Sensitive Information</a><br/>
 <a href="https://github.com/Ploop-2025-Solution-Challenge/.github/blob/main/README.md#team">Team</a><br/>
 
    
@@ -173,6 +174,8 @@ Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
 ### Android
 
 Add `google-services.json` file into `Ploop-FE/android/app` folder.
+
+<br/>
 
 ## Team
 <center>
