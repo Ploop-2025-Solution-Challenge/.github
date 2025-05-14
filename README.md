@@ -174,7 +174,7 @@ Add `GoogleService-Info.plist` file into `Ploop-FE/ios/Runner` folder.
 
 Add `google-services.json` file into `Ploop-FE/android/app` folder.
 
-## Contributors
+## Team
 <center>
    <table>
   <tr>
