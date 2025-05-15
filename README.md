@@ -23,7 +23,9 @@ Google Developer Group on Campus : SEOULTECH
   - [Goals of Ploop](#goal)  
 - [Components](#components)  
 - [Project Architecture](#project-architecture)
-- [AI](#ai)
+- [AI](#ai-1)
+  - [Trash Detection](#trash-detection)
+  - [Team Matching](#team-matching)
 - [Features](#application-features)  
   - [Signing In](#sign-up--sign-in)
   - [Settings & Preferences](#user-info-settings--preferences) 
@@ -144,10 +146,11 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 We used YOLOv11 to detect trash real-time. YOLOv11 is the latest version in the Ultralytics YOLO series, achieving breakthroughs in accuracy, speed, and efficiency in the field of real-time object detection.
 ![image](https://github.com/user-attachments/assets/3956e647-8a10-42df-8314-31228bcce173)
 <br/>
-Since we expected users to take photos of trash outdoors while plogging, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on [trash detection dataset (TACO)](https://universe.roboflow.com/ptit-rbnp6/trash-detect-taco/dataset/2), and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
+Since we expected users to take photos of trash outdoors, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on [trash detection dataset (TACO)](https://universe.roboflow.com/ptit-rbnp6/trash-detect-taco/dataset/2), and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
 
 ### Team Matching
 Another way of using ai was in Team Matching in Missions. Text data from users was processed using PyTorch-powered sentence embeddings via SentenceTransformers, enabling us to compute semantic similarity across user motivations and behaviors. This allowed us to match users with others who share similar goals or engagement styles. Pinecone was used as our vector database for efficient real-time similarity search. <br/>
+
 ![image](https://github.com/user-attachments/assets/36e33440-defe-4665-9f28-f0e9c00e4f3e)
 
 
@@ -158,75 +161,67 @@ Another way of using ai was in Team Matching in Missions. Text data from users w
 ## Application Features
 ### Sign Up & Sign In
 
-<img src="https://github.com/user-attachments/assets/fc0f7d18-2e93-4c5e-bcd2-22c1b7f98a15" height="250"></br>
+![Frame 289992](https://github.com/user-attachments/assets/e138d0d4-aed0-4c11-a475-2d3c77f3e6b8)
 - Ploop uses Google OAuth for to sign up. Connect your Google profile to the service.  
 <br/>
 
 ### User Info Settings & Preferences
-<img src="https://github.com/user-attachments/assets/8db5e798-580f-4678-969f-da6512fc82b2" height="250"></br>
+![signup](https://github.com/user-attachments/assets/c775142b-f610-45e5-a2a1-3861f1f85bda)
+
 - Set up your region, nickname, and so on.  
 Your preferred area and engagement style reported on this step will be used for matching partner for weekly missions.  
 
 <br/>
 
 ### Weekly Missions
-<img src="https://github.com/user-attachments/assets/d1c3e297-48c2-4da3-9eea-8539bd06220d" height="250"/></br>
+![mission](https://github.com/user-attachments/assets/e7c5a997-ede5-40be-aee9-93c701e49101)
 - Ploop gives you 3 new missions every week. They're not mandatory, but they'll keep you engaged in small environmental actions.  
 Set a goal to complete 100% of the missions each week with your partner!  
 
 <br/>
 
-- if there's no mission this week, we'll show you this screen.  
+- if there's no mission this week, we'll show you the screen below.
+  
+![missionno](https://github.com/user-attachments/assets/c8ad1371-92e9-4eaa-b608-c5b5bb54894b)
 
-<img src="https://github.com/user-attachments/assets/cbbae95f-d5c6-4b10-a450-799c31b40755" height="250"/> 
-
-<br/><br/>
+<br/>
 
 ### Plogging
-<img src="https://github.com/user-attachments/assets/f748cd13-eac7-4397-a746-9bbbd209a61b" height="250"/>
-<br/>
+![plogging](https://github.com/user-attachments/assets/1e36f39c-40c6-4d33-90f2-ecef92b482f6)
 
 - Ploop is designed to track your realtime activity, simple and efficiently.  
 To track it more efficiently, please allow Ploop to access your location services.  
 
 <br/>
-<br/>
 
 ### Map Components
-<img src="https://github.com/user-attachments/assets/91485af7-6f91-4708-a802-8990450a6a28" height="250"/>
-<br/>
+![segment-filter](https://github.com/user-attachments/assets/eaaaf192-0761-4c91-970f-c59daf3cbc1a)
 
 - Ploop uses Google Maps API to display areas reported as heavily littered or locations of nearby trash bins.  
 Based on this data, Ploop recommends a daily plogging route tailored to your surroundings.  
 Start plogging with a motivational message powered by Gemini!  
 
-</br>
 <br/>
 
 ### Uploading litter area & trach bin
-<img src="https://github.com/user-attachments/assets/d6d18cc0-4e25-4784-abcb-d6e0a7538f43" height="500"/>
-<br/>
+![map-integration](https://github.com/user-attachments/assets/77aa0f34-e98b-4664-a411-0320f577efe5)
 
 - To report a littered area or a trash bin, simply open the camera on the map and take a photo.  
 The location will be automatically uploaded to the server.  
 All you need to do is specify whether you found litter or a bin.
 
 <br/>
-<br/>
 
 ### Global Routes
-<img src="https://github.com/user-attachments/assets/44fc31d0-510b-4814-9c80-b573f456d465" height="250"/>
-</br>
+![world](https://github.com/user-attachments/assets/731eed8e-b6e5-4dd4-875b-abc692f2019a)
 
 - No manual uploads needed — explore the world and trace other users' footprints.
 Others might even follow your plogging route, too.
 
 <br/>
-<br/>
 
 ### Activity Dashboard
-<img src="https://github.com/user-attachments/assets/6a3ca752-2420-4afe-8c91-0addbb60236c" height="250"/>
-<br/>
+![activity](https://github.com/user-attachments/assets/471d6288-9159-466c-b7c7-e443fc96e0ed)
 
 - Track your environmental journey on your activity dashboard.
 Ploop helps you look back on how much you've contributed to a cleaner planet with intuitive graphs.
@@ -255,13 +250,14 @@ To run this app from the source code, please follow the instructions below:
 Alternatively, you can use your own client IDs and API keys.
 Follow the platform-specific instructions below:
 
+
 ### iOS
-Add the `GoogleService-Info.plist` file to the `Ploop-FE/ios/Runner` folder.
+- Add the `GoogleService-Info.plist` file to the `Ploop-FE/ios/Runner` folder.
+
 
 ### Android
-Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
+- Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
 
-<br/>
 <br/>
 
 ## Team
@@ -270,7 +266,7 @@ Add the `google-services.json` file to the `Ploop-FE/android/app` folder.
   <tr>
     <td align="center">
       <a href="https://www.behance.net/SoyeonAhn_yyyy">
-      <img src="https://github.com/user-attachments/assets/fdd97809-ec24-40ca-aad4-8c24ed298230" width="100px;" alt=""/></a><br />
+      <img src="https://github.com/user-attachments/assets/fdd97809-ec24-40ca-aad4-8c24ed298230" width="100px" alt=""/></a><br />
       <b>Soyeon Ahn</b><br/>
       Design
     </td>
