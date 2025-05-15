@@ -143,6 +143,7 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 ## AI
 ### Trash detection
 We used YOLOv11 to detect trash real-time. YOLOv11 is the latest version in the Ultralytics YOLO series, achieving breakthroughs in accuracy, speed, and efficiency in the field of real-time object detection.
+
 ![image](https://github.com/user-attachments/assets/3956e647-8a10-42df-8314-31228bcce173)
 <br/>
 Since we expected users to take photos of trash outdoors, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on [trash detection dataset (TACO)](https://universe.roboflow.com/ptit-rbnp6/trash-detect-taco/dataset/2), and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
