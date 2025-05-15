@@ -278,13 +278,13 @@ Follow the platform-specific instructions below:
     </td>
     <td align="center">
        <a href="https://github.com/xxrainow">
-          <img src="https://avatars.githubusercontent.com/u/90715224?s=70&v=4" width="100px;" alt=""/></a><br />
+          <img src="https://avatars.githubusercontent.com/u/90715224?s=70&v=4" width="100px" alt=""/></a><br />
        <b>Jiwoo Shin</b><br/>
        Database & Server
     </td>
     <td align="center">
        <a href="https://github.com/hohosznta">
-          <img src="https://avatars.githubusercontent.com/u/125850243?v=4" width="100px;" alt=""/></a><br />
+          <img src="https://avatars.githubusercontent.com/u/125850243?v=4" width="100px" alt=""/></a><br />
        <b>Yoolim Han</b><br/>
        AI & Server
     </td>
