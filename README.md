@@ -2,8 +2,7 @@
   
 # Ploop
 
-<img src='assets/ploop-applogo.png' width=150px/>
-</br>
+![AppLogo](https://github.com/user-attachments/assets/721b1091-9c59-404a-a9b7-cf93ced41987)
 
 ### Pick, Plog, and Keep the Loop Going!
 
