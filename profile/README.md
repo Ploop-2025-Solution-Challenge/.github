@@ -6,7 +6,7 @@
 
 ### Pick, Plog, and Keep the Loop Going!
 
-APAC Solution Challenge 2025 Project
+APAC Solution Challenge 2025 Project </br>
 Side Impact 2025 Project
 </br> </br>
 Google Developer Group on Campus : SEOULTECH
