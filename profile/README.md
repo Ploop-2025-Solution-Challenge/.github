@@ -289,6 +289,12 @@ Follow the platform-specific instructions below:
        <b>Yoolim Han</b><br/>
        AI & Server
     </td>
+    <td align="center">
+       <a href="https://github.com/singsingsing3">
+          <img src="https://avatars.githubusercontent.com/u/120327265?v=4" width="100px" alt=""/></a><br />
+       <b>Taeho Lee</b><br/>
+       AI
+    </td>
   <tr>
 <table>
 
