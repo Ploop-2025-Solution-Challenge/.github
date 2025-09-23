@@ -114,8 +114,14 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 
 ### AI
 <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/2.2.2-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/v2.0 FLASH-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/1.3.2-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Transformers-FF6600?style=for-the-badge&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/4.41-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/API-%23121011?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/GPT--4o_v1.107-515151?style=for-the-badge"><br>
 
 
 ### Design
@@ -143,14 +149,30 @@ With Ploop, we’re not just cleaning up trash—we’re building a culture of c
 
 ## AI
 ### Trash detection
-We used YOLOv11 to detect trash real-time. YOLOv11 is the latest version in the Ultralytics YOLO series, achieving breakthroughs in accuracy, speed, and efficiency in the field of real-time object detection.
+For image recognition to [verify missions](#weekly_missions), we used the **GPT-4o model** via the **OpenAI API**. This model was chosen for its excellent performance and favorable token cost.</br>
+Below are the image recognition results using the GPT-4o API, which allows users to complete missions more conveniently with the help of AI.</br>
+![can2jpg](https://github.com/user-attachments/assets/5483e191-40ec-482c-b114-ccbce92fba06)
+<img width="278" height="211" alt="result" src="https://github.com/user-attachments/assets/758ed271-06dd-4e73-a88a-42e0061481ee" />
 
-![image](https://github.com/user-attachments/assets/3956e647-8a10-42df-8314-31228bcce173)
-<br/>
-Since we expected users to take photos of trash outdoors, we selected a dataset that accurately reflects such outdoor environments. Transfer learning was performed on [trash detection dataset (TACO)](https://universe.roboflow.com/ptit-rbnp6/trash-detect-taco/dataset/2), and the resulting model was deployed as an API service using FastAPI on Google Cloud. You can see our model being used when [verifying missions](#weekly_missions). 
+
+### Route Suggestion
+
+To offer the most efficient running routes, we've combined the **Google Maps Route API** with the **K-means Clustering** algorithm. </br>
+This approach generates optimal paths by considering a user's current location, as well as the locations of trash spots and nearby bins. This helps users collect trash along a predefined, convenient route.</br>
+</br>
+While this system provides a powerful solution for route optimization, it's important to note a current limitation: the Google Maps Route API does not support walking directions in South Korea (due to national security restrictions). </br>
+We explored various alternative APIs, but none provided this specific functionality for the region. As a result, this feature, while effective in other areas, is currently unavailable for users in South Korea.
+
+<img src="https://github.com/user-attachments/assets/19396e6b-9ae5-4c4f-90d4-c6cbf43106cd" width="279" height="450">
+
+
 
 ### Team Matching
-Another way of using ai was in Team Matching in Missions. Text data from users was processed using PyTorch-powered sentence embeddings via SentenceTransformers, enabling us to compute semantic similarity across user motivations and behaviors. This allowed us to match users with others who share similar goals or engagement styles. Pinecone was used as our vector database for efficient real-time similarity search. <br/>
+Another way of using AI was in Team Matching for missions.</br>
+
+To pair users with similar interests and motivations, we utilized Sentence-Transformers to generate sentence embeddings from user text data. By calculating the cosine similarity between these embeddings, we could efficiently find and match users who share similar goals and engagement styles.</br>
+
+For development efficiency, we directly accessed user data from a MySQL backend. To ensure the project's scalability and enable efficient, real-time similarity searches, we established a vector database using Pinecone. This setup allows us to quickly find ideal partners for each user, making the mission experience more collaborative and engaging.</br>
 
 ![image](https://github.com/user-attachments/assets/36e33440-defe-4665-9f28-f0e9c00e4f3e)
 
