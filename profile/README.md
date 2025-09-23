@@ -25,6 +25,7 @@ Google Developer Group on Campus : SEOULTECH
 - [Project Architecture](#project-architecture)
 - [AI](#ai-1)
   - [Trash Detection](#trash-detection)
+  - [Route Suggestion](#route-suggestion)
   - [Team Matching](#team-matching)
 - [Features](#application-features)  
   - [Signing In](#sign-up--sign-in)
