@@ -155,8 +155,6 @@ Another way of using ai was in Team Matching in Missions. Text data from users w
 ![image](https://github.com/user-attachments/assets/36e33440-defe-4665-9f28-f0e9c00e4f3e)
 
 
-
-
 <br/>
 
 ## Application Features
@@ -200,7 +198,7 @@ To track it more efficiently, please allow Ploop to access your location service
 
 - Ploop uses Google Maps API to display areas reported as heavily littered or locations of nearby trash bins.  
 Based on this data, Ploop recommends a daily plogging route tailored to your surroundings.  
-Start plogging with a motivational message powered by Gemini!  
+Start plogging with AI-based recommended route!
 
 <br/>
 
@@ -235,8 +233,8 @@ Ploop helps you look back on how much you've contributed to a cleaner planet wit
 ## Releases
 |Version|Release Page|
 |:--:|:--:|
-|v0.1.0 **(Latest)** |[Ploop (0.1.0)](https://github.com/Ploop-2025-Solution-Challenge/Ploop-FE/releases/tag/v0.1.0)|
-
+|v0.1.0 |[Ploop (0.1.0)](https://github.com/Ploop-2025-Solution-Challenge/Ploop-FE/releases/tag/v0.1.0)|
+|v0.1.1 **(Latest)** |[Ploop (0.1.1)](https://github.com/Ploop-2025-Solution-Challenge/Ploop-FE/releases/tag/v0.1.1)|
 <br/>
 <br/>
 
