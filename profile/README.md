@@ -171,9 +171,9 @@ We explored various alternative APIs, but other available APIs in Korea did not 
 ### Team Matching
 Another way of using AI was in Team Matching for missions.</br>
 
-To pair users with similar interests and motivations, we utilized Sentence-Transformers to generate sentence embeddings from user text data. By calculating the cosine similarity between these embeddings, we could efficiently find and match users who share similar goals and engagement styles.</br>
+To pair users with similar interests and motivations, we utilized **Sentence-Transformers** to generate sentence embeddings from user text data. By calculating the **cosine similarity** between these embeddings, we could efficiently **find and match** users who share similar goals and engagement styles.</br>
 
-For development efficiency, we directly accessed user data from a MySQL backend. To ensure the project's scalability and enable efficient, real-time similarity searches, we established a vector database using Pinecone.</br>
+For development efficiency, we directly accessed user data from a **MySQL** backend. To ensure the project's scalability and enable efficient, real-time similarity searches, we established a vector database using **Pinecone**.</br>
 We are currently storing user information in Pinecone DB, but we are not utilizing it yet. We can improve this aspect later, as the user base grows, to enhance the project's scalability and enable efficient, fast similarity searches. </br> Since the user base is currently small, we have scheduled the matching system to run at a specific time.</br>
 This setup allows us to find ideal partners for each user, making the mission experience more collaborative and engaging.</br>
 
