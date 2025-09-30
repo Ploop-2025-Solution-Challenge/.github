@@ -162,7 +162,7 @@ To offer the most efficient running routes, we've combined the **Google Maps Rou
 This approach generates optimal paths by considering a user's current location, as well as the locations of trash spots and nearby bins. This helps users collect trash along a predefined, convenient route.</br>
 </br>
 While this system provides a powerful solution for route optimization, it's important to note a current limitation: the Google Maps Route API does not support walking directions in South Korea (due to national security restrictions). </br>
-We explored various alternative APIs, but none provided this specific functionality for the region. As a result, this feature, while effective in other areas, is currently unavailable for users in South Korea.
+We explored various alternative APIs, but other available APIs in Korea did not provide walking route functionality. As a result, this feature, while effective in other areas, is currently unavailable for users in South Korea.
 
 <img src="https://github.com/user-attachments/assets/19396e6b-9ae5-4c4f-90d4-c6cbf43106cd" width="279" height="450">
 
@@ -173,7 +173,9 @@ Another way of using AI was in Team Matching for missions.</br>
 
 To pair users with similar interests and motivations, we utilized Sentence-Transformers to generate sentence embeddings from user text data. By calculating the cosine similarity between these embeddings, we could efficiently find and match users who share similar goals and engagement styles.</br>
 
-For development efficiency, we directly accessed user data from a MySQL backend. To ensure the project's scalability and enable efficient, real-time similarity searches, we established a vector database using Pinecone. This setup allows us to quickly find ideal partners for each user, making the mission experience more collaborative and engaging.</br>
+For development efficiency, we directly accessed user data from a MySQL backend. To ensure the project's scalability and enable efficient, real-time similarity searches, we established a vector database using Pinecone.</br>
+We are currently storing user information in Pinecone DB, but we are not utilizing it yet. We can improve this aspect later, as the user base grows, to enhance the project's scalability and enable efficient, fast similarity searches. </br> Since the user base is currently small, we have scheduled the matching system to run at a specific time.</br>
+This setup allows us to find ideal partners for each user, making the mission experience more collaborative and engaging.</br>
 
 ![image](https://github.com/user-attachments/assets/36e33440-defe-4665-9f28-f0e9c00e4f3e)
 
